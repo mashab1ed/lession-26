@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+.container {
+
+box-sizing: border-box;
+background-color: black;
+padding: 100px 150px 100px 10px;
+margin: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.block {
+color: #999;
+font-size: 2em;
+text-align: center;
+
+
+}
+
+
+.container {
+transition:5s ;background-color:3s 2s;
+transition-duration: 3s;
+transition-delay: 2s;
+}
+
+
+
+
+
+.container:hover {
+
+    background-color: blueviolet;
+    border-radius: 100px;
+}
+
+
+
+
+
+
+
+
+
+
